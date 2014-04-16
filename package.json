@@ -4,7 +4,7 @@
     "description": "",
     "repository": {
         "type": "git",
-        "url": "https://github.com/GitbookIO/progit.git"
+        "url": "https://github.com/martynchamberlin/GitBook.git"
     },
     "author": "Samy Pesse <samypesse@gmail.com>",
     "license": "Apache 2",
